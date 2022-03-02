@@ -1,0 +1,54 @@
+{
+  "category": [
+    {
+      "id": "c1",
+      "title": "Main Page",
+      "color": "607D8B"
+    },
+    {
+      "id": "c2",
+      "title": "Personalized Offer",
+      "color": "607D8B"
+    },
+    {
+      "id": "c3",
+      "title": "My Offer",
+      "color": "607D8B"
+    },
+    {
+      "id": "c4",
+      "title": "Earn&Get",
+      "color": "607D8B"
+    },
+    {
+      "id": "c5",
+      "title": "My Profile",
+      "color": "607D8B"
+    },
+    {
+      "id": "c6",
+      "title": "Marketing",
+      "color": "607D8B"
+    },
+    {
+      "id": "c7",
+      "title": "Booking",
+      "color": "607D8B"
+    },
+    {
+      "id": "c8",
+      "title": "Navigation",
+      "color": "607D8B"
+    },
+    {
+      "id": "c9",
+      "title": "FeedBack",
+      "color": "607D8B"
+    },
+    {
+      "id": "Advertising",
+      "title": "Policy",
+      "color": "607D8B"
+    }
+  ]
+}
